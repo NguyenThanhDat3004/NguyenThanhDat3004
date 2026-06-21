@@ -35,8 +35,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaiLuong1906&repo=CinemaManagement&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Cinema Management Project" />
   </a>
   <br/>
-  <a href="https://github.com/fplu-se-su26/swp391-su26-ai-audit-project-swp391_se20a11_group-04-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fplu-se-su26&repo=swp391-su26-ai-audit-project-swp391_se20a11_group-04-1&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="AI Audit Project" />
+  <a href="https://github.com/fptu-se-su26/swp391-su26-ai-audit-project-swp391_se20a11_group-04-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fptu-se-su26&repo=swp391-su26-ai-audit-project-swp391_se20a11_group-04-1&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="AI Audit Project" />
   </a>
   <a href="https://github.com/quan1706/IOT_quanlytreem">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=quan1706&repo=IOT_quanlytreem&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="IOT Quan Ly Tre Em" />
