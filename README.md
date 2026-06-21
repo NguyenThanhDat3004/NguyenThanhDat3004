@@ -35,17 +35,17 @@
 
   <!-- GitHub Stats -->
   <p align="center">
-    <a href="https://github.com/NguyenThahDat3004">
-      <img src="https://github-readme-stats.vercel.app/api?username=NguyenThahDat3004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    <a href="https://github.com/NguyenThanhDat3004">
+      <img src="https://github-readme-stats.vercel.app/api?username=NguyenThanhDat3004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/NguyenThahDat3004">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenThahDat3004&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+    <a href="https://github.com/NguyenThanhDat3004">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenThanhDat3004&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
     </a>
   </p>
 
   <!-- Contribution Graph -->
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenThahDat3004&bg_color=0D1117&color=2196F3&line=2196F3&point=FFFFFF&hide_border=true&theme=tokyonight" alt="Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenThanhDat3004&bg_color=0D1117&color=2196F3&line=2196F3&point=FFFFFF&hide_border=true&theme=tokyonight" alt="Contribution Graph" />
   </p>
 
   <p align="center">
