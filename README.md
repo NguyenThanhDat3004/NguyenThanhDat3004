@@ -26,6 +26,18 @@
 
 ---
 
+### 🚀 Featured Projects
+<div align="center">
+  <a href="https://github.com/NguyenThanhDat3004/S-Mall">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenThanhDat3004&repo=S-Mall&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="S-Mall Project" />
+  </a>
+  <a href="https://github.com/MaiLuong1906/CinemaManagement">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaiLuong1906&repo=CinemaManagement&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Cinema Management Project" />
+  </a>
+</div>
+
+---
+
 ### 📊 GitHub Stats & Code Frequency
 <div align="center">
 
