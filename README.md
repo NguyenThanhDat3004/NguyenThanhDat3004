@@ -14,14 +14,14 @@
 - 🎓 Hi, I'm **Nguyễn Thành Đạt**, a student at **FPT University**
 - 💻 Passionate about programming and focusing on **Backend Development**
 - 🤖 Curious about and exploring: **AI Agents & RAG (Retrieval-Augmented Generation)**
-- ⚙️ Tech Stack & Skills: **Java, Spring Framework, WebSocket**
+- ⚙️ Tech Stack & Skills: **C, Java, Spring Framework, WebSocket**
 - 📫 How to reach me: **3004nguyenthanhdat@gmail.com**
 
 ---
 
 ### 🛠️ Languages and Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,vscode,docker&theme=dark" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=c,java,spring,mysql,git,github,vscode,docker&theme=dark" alt="skills" />
 </div>
 
 ---
