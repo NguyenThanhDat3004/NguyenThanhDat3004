@@ -36,7 +36,7 @@
   <!-- GitHub Stats -->
   <p align="center">
     <a href="https://github.com/NguyenThanhDat3004">
-      <img src="https://github-readme-stats.vercel.app/api?username=NguyenThanhDat3004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=NguyenThanhDat3004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_rank=true" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/NguyenThanhDat3004">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenThanhDat3004&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
