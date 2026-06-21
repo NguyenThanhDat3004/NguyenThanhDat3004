@@ -63,10 +63,15 @@
     </a>
   </p>
 
-  <!-- Contribution Graph -->
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenThanhDat3004&bg_color=0D1117&color=2196F3&line=2196F3&point=FFFFFF&hide_border=true&theme=tokyonight" alt="Contribution Graph" />
-  </p>
+  <!-- Contribution Graph (Commit Squares) with Car Animation -->
+  <div align="center">
+    <marquee behavior="alternate" scrollamount="12" width="75%">
+      <h1 style="margin: 0; font-size: 35px;">🏎️💨</h1>
+    </marquee>
+    <a href="https://github.com/NguyenThanhDat3004">
+      <img src="https://ghchart.rshah.org/2196F3/NguyenThanhDat3004" alt="Commit Squares" />
+    </a>
+  </div>
 
 
 </div>
