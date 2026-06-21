@@ -28,10 +28,7 @@
 
 ### 📊 GitHub Stats & Code Frequency
 <div align="center">
-  <!-- Moving Mario GIF -->
-  <marquee scrollamount="10" direction="right" width="80%">
-    <img src="https://media.giphy.com/media/13hxeOYjoTWtK8/giphy.gif" width="60" alt="Mario Running"/>
-  </marquee>
+
 
   <!-- GitHub Stats -->
   <p align="center">
@@ -48,9 +45,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenThanhDat3004&bg_color=0D1117&color=2196F3&line=2196F3&point=FFFFFF&hide_border=true&theme=tokyonight" alt="Contribution Graph" />
   </p>
 
-  <p align="center">
-    <i>*Note: Currently, standard GitHub Actions support games like Snake 🐍 or Pac-Man 🕹️ for the contribution graph. The Mario above runs playfully across the stats to bring life to the profile!*</i>
-  </p>
+
 </div>
 
 ---
