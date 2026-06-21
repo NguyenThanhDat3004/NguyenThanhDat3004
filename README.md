@@ -63,14 +63,13 @@
     </a>
   </p>
 
-  <!-- Contribution Graph (Commit Squares) with Car Animation -->
+  <!-- Contribution Graph (Snake Animation) -->
   <div align="center">
-    <marquee behavior="alternate" scrollamount="12" width="75%">
-      <h1 style="margin: 0; font-size: 35px;">🏎️💨</h1>
-    </marquee>
-    <a href="https://github.com/NguyenThanhDat3004">
-      <img src="https://ghchart.rshah.org/2196F3/NguyenThanhDat3004" alt="Commit Squares" />
-    </a>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NguyenThanhDat3004/NguyenThanhDat3004/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NguyenThanhDat3004/NguyenThanhDat3004/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NguyenThanhDat3004/NguyenThanhDat3004/output/github-contribution-grid-snake-dark.svg">
+    </picture>
   </div>
 
 
